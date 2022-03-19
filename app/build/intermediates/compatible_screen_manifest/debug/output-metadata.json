@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.is1427.se1427_g4_prm391_project",
+  "variantName": "debug",
+  "elements": []
+}

@@ -1,0 +1,4 @@
+com/is1427/is1427_g4_prm391_project/BuildConfig.java
+ com.is1427.is1427_g4_prm391_project.BuildConfig
+com/is1427/is1427_g4_prm391_project/MainActivity.java
+ com.is1427.is1427_g4_prm391_project.MainActivity
